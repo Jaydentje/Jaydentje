@@ -1,5 +1,3 @@
-- 👋 Hello, i do a little coding
-- 🌱 I’m currently doing software engineering at the Amsterdam University of Applied Sciences
 - 📫 tw: @Gobber04
      
 <!---
